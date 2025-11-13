@@ -41,18 +41,6 @@ Hasil prediksi divisualisasikan dalam berbagai grafik seperti:
 
 ---
 
-## 📊 Contoh Visualisasi  
-### Confusion Matrix  
-![Confusion Matrix](link_confusion_matrix)
-
-### ROC Curve  
-![ROC Curve](link_roc_curve)
-
-### Distribusi Probabilitas Churn  
-![Probability Distribution](link_probability_plot)
-
----
-
 ## ⚙️ Cara Menjalankan Proyek  
 
 ### 1️⃣ Instalasi Dependensi  
