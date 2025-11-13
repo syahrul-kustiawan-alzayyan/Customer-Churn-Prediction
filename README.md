@@ -19,8 +19,7 @@ Hasil prediksi divisualisasikan dalam berbagai grafik seperti:
 | Framework ML | scikit-learn |
 | Visualisasi | Matplotlib |
 | Manajemen Model | joblib |
-| Lingkungan | Jupyter Notebook / Google Colab |
-| (Opsional) Dashboard | Power BI |
+| Lingkungan | Google Colab |
 
 ---
 
